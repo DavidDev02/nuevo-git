@@ -1,4 +1,4 @@
-# comandos útiles de Git
+# comandos útiles de Git - heroes es como llamo a la rama
 
 
  1- git init
@@ -8,4 +8,4 @@
  5- git checkout -- .
  6- git log
  7- git commit --amend
- 8- git checkout -b rama-heroes
+ 8- git checkout -b rama-heroes 
