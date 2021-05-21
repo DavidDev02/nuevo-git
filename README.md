@@ -14,6 +14,8 @@
 # 11- fusionar ramas con merge mas el nombre de la rama.
 # 12- para borrar una rama cuando ya no la necesita y aparte agregas el nombre de la rama.
 # 13- renombra el master a main.
+# 14- lo sube a git hub.
+# 15- sirve para no copiar cada rato el 2 y 4 de manera simultanea
 
 
  1. git init
@@ -29,4 +31,6 @@
  11. git merge rama-heroes 
  12. git branch -d rama-heroes
  13. git branch -M main
+ 14. git push
+ 15. git commit -am
  
