@@ -15,7 +15,8 @@
 # 12- para borrar una rama cuando ya no la necesita y aparte agregas el nombre de la rama.
 # 13- renombra el master a main.
 # 14- lo sube a git hub.
-# 15- sirve para no copiar cada rato el 2 y 4 de manera simultanea
+# 15- sirve para no copiar cada rato el 2 y 4 de manera simultanea.
+# 16- remueve y agrega.
 
 
  1. git init
@@ -33,4 +34,5 @@
  13. git branch -M main
  14. git push
  15. git commit -am
+ 16. git remote add origin
  
